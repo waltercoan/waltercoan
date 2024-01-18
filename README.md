@@ -6,4 +6,4 @@ I have been part of the Microsoft Most Valuable Professional Award MVP program s
 
 My academic background is in Information Systems Development and Distributed Systems and Wireless Sensor Networks.
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,java,spring,dotnet,python,js,docker,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,java,spring,dotnet,python,js,docker,git,linux,raspberrypi)](https://skillicons.dev)
