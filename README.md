@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Walter Silvestre Coan
 
-I am a cloud solutions architect, university professor and authorized instructor for AWS and Microsoft.
+I am a cloud solutions architect, university professor and authorized instructor for AWS, Microsoft and NVIDIA.
 
-I have been part of the Microsoft Most Valuable Professional Award MVP program since 2020.
+I have been part of the Microsoft Most Valuable Professional Award MVP program since 2020, and also since 2025 I am part of the Dapr Meteors program.
 
-My academic background is in Information Systems Development and Distributed Systems and Wireless Sensor Networks.
+My academic background is in Information Systems Development and Distributed Systems and Wireless Sensor Networks at Pontifícia Universidade Católica do Paraná PUCPR.
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,java,spring,dotnet,python,js,docker,git,linux,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,aws,java,spring,dotnet,python,js,docker,github,linux,raspberrypi)](https://skillicons.dev)
 
 ### Lectures and presentations
 
@@ -23,3 +23,7 @@ My academic background is in Information Systems Development and Distributed Sys
 - [2025-03-21 Azure User Groups Mozambique 2025 - Introduction to Azure IoT Operations](https://github.com/waltercoan/azureusermocambique2025-aio)
 - [2025-02-06 Microsoft Reactor - Review for AI 102 Azure AI Engineer Associate Certification](https://github.com/waltercoan/reactor2025-ai102)
 - [2025-01-30 Devops Experience January 2025 - Kubernetes Certifications - Official and Cloud Provider Exams](https://github.com/waltercoan/devopsexp2025-cloudprofcertification)
+
+### Linkedin
+
+[![in/waltercoan/](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/waltercoan/)
