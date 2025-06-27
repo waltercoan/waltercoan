@@ -6,7 +6,7 @@ I have been part of the Microsoft Most Valuable Professional Award MVP program s
 
 My academic background is in Information Systems Development and Distributed Systems and Wireless Sensor Networks at Pontifícia Universidade Católica do Paraná PUCPR.
 
-[![My Skills](https://skillicons.dev/icons?i=azure,aws,java,spring,dotnet,python,js,docker,github,linux,raspberrypi)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=azure,aws,java,spring,dotnet,python,js,docker,github,linux,raspberrypi)
 
 ### Lectures and presentations
 
