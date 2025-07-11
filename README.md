@@ -2,7 +2,7 @@
 
 I am a cloud solutions architect, university professor and authorized instructor for AWS, Microsoft and NVIDIA.
 
-I have been part of the Microsoft Most Valuable Professional Award MVP program since 2020, and also since 2025 I am part of the Dapr Meteors program.
+I have been part of the [Microsoft Most Valuable Professional Award MVP program since 2020 (Azure and Internet of Things)](https://mvp.microsoft.com/pt-BR/MVP/profile/cc41c51c-7042-ea11-a812-000d3a8cc830), and also since 2025 I am part of the [Dapr Meteors program](https://dapr.io/community/program/).
 
 My academic background is in Information Systems Development and Distributed Systems and Wireless Sensor Networks at Pontifícia Universidade Católica do Paraná PUCPR.
 
@@ -27,3 +27,7 @@ My academic background is in Information Systems Development and Distributed Sys
 ### Linkedin
 
 [![in/waltercoan/](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/waltercoan/)
+
+### Github
+
+[![github.com/waltercoan](https://skillicons.dev/icons?i=github)](https://github.com/waltercoan)
