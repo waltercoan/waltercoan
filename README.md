@@ -10,6 +10,7 @@ My academic background is in Information Systems Development and Distributed Sys
 
 ### Lectures and presentations
 
+- [2025-09-21 Canal .net - Azure Weekend 2025 - Novidades do Azure IoT Operations](https://www.youtube.com/watch?v=cr5sdlo7RTI)
 - [2025-07-01 Microsoft Reactor - Implementing RAG using Vector Search in Azure Cosmos DB](https://github.com/waltercoan/reactor2025-rag-cosmosdb)
 - [2025-06-16 SouJava 2025 - 30 years of the Java language - Simplifying microservices development with Dapr 🎩 Runtime](https://github.com/waltercoan/soujava2025-dapr)
 - [2025-06-12 TDC Floripa 2025 - Integrating Microservices into LLM with Dapr - Distributed Application Runtime](https://github.com/waltercoan/tdcfloripa2025-dapr-conversation)
