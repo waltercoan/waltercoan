@@ -10,6 +10,7 @@ My academic background is in Information Systems Development and Distributed Sys
 
 ### Lectures and presentations
 
+- [2025-11-05 Dapr Day 2025 - Building MCP Server with Dapr to ask questions to an Industrial device with Azure IoT Operations](https://github.com/waltercoan/daprday2025-mcpserver-dapr-azureiotoperations-opcua)
 - [2025-09-27 MVP Conf 2025 Warm-up - Curitiba - Monitoramento de equipamentos industriais com o Azure IoT Operations e OCP UA](https://github.com/waltercoan/esquentamvpconf2025-cwb-aio-opcua)
 - [2025-09-21 Canal .net - Azure Weekend 2025 - Novidades do Azure IoT Operations](https://www.youtube.com/watch?v=cr5sdlo7RTI)
 - [2025-07-01 Microsoft Reactor - Implementing RAG using Vector Search in Azure Cosmos DB](https://github.com/waltercoan/reactor2025-rag-cosmosdb)
