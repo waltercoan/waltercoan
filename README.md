@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Walter Silvestre Coan
 
-I am a cloud solutions architect, university professor and authorized instructor for AWS, Microsoft and NVIDIA.
+I am a Senior Technical Trainer at Microsoft.
 
 I have been part of the [Microsoft Most Valuable Professional Award MVP program since 2020 (Azure and Internet of Things)](https://mvp.microsoft.com/pt-BR/MVP/profile/cc41c51c-7042-ea11-a812-000d3a8cc830), and also since 2025 I am part of the [Dapr Meteors program](https://dapr.io/community/program/).
 
 My academic background is in Information Systems Development and Distributed Systems and Wireless Sensor Networks at Pontifícia Universidade Católica do Paraná PUCPR.
 
-![My Skills](https://skillicons.dev/icons?i=azure,aws,java,spring,dotnet,python,js,docker,github,linux,raspberrypi)
+![My Skills](https://skillicons.dev/icons?i=azure,java,spring,dotnet,python,js,docker,github,linux,raspberrypi)
 
 ### Lectures and presentations
 
